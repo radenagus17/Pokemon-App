@@ -1,0 +1,4 @@
+export const GET_POKEMONS = "GET_POKEMONS";
+export const GET_POKEMONS_ID = "GET_POKEMONS_ID";
+export const SET_POKE_LOADING = "SET_POKE_LOADING";
+export const SET_POKE_ERR = "SET_POKE_ERR";

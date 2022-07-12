@@ -25,12 +25,12 @@
       "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
     },
     {
-      "name": "oke dicoba",
-      "description": "coba coba",
-      "weight": "123 lbs",
-      "image": "20",
-      "type": "grass",
-      "id": 4
+      "name": "Pikachu",
+      "description": "lorem ipsum",
+      "weight": "15 lbs",
+      "image": "https://id.portal-pokemon.com/play/resources/pokedex/img/pm/2b3f6ff00db7a1efae21d85cfb8995eaff2da8d8.png",
+      "type": "water",
+      "id": 5
     }
   ]
 }

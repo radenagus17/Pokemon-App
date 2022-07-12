@@ -15,7 +15,8 @@ const Home = () => {
 
   useEffect(() => {
     dispatch(GetPokemonsList(url, type));
-  }, []);
+    //eslint-disable-next-line
+  }, [dispatch]);
 
   const detailButton = (id) => {
     navigate(`/${id}/pokemon`);
